@@ -7,7 +7,7 @@ Cada código é um "Programa" Diferente.
 
 * Python Stock Tracker
 
-  Aplicativo Stock Tracker feito em Python, utilizando principalmente tkinter, Sqlite3 e Yfinance
+  Aplicativo Stock Tracker feito em Python, utilizando principalmente tkinter, SQLite3 e Yfinance
   Interface capaz de produzir gráficos histórico de preço das ações. como em sua "Interactive Window" é Possível de analisar os preços mudando e suas % em tempo real.
   (Ainda em desenvolvimento)
 
