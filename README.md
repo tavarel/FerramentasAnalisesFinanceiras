@@ -13,15 +13,16 @@ Cada código é um "Programa" Diferente.
 
 * Iniciar fundamentalista
 
-  Arquivo em Python que gera um Excel da ação desejada, Ação vem com as três demonostrações financeiras dos últimos 4 anos, assim como os últimos 4 Quarters.
+  Arquivo em Python que gera um Excel da ação desejada, Excel vem com as três demonostrações financeiras dos últimos 4 anos, assim como as dos últimos 4 Quarters.
   Em sua Main Sheet, puxa o Beta da companhia, 52 Week High, Low, 50 Day moving Average, Var 95%, Sharpe Ratio (Dado seu benchmark), Preço, Shares Outstanding, Market Cap, Cash, Debt, Enterprise Value e uma breve descrição de o que a empresa faz.
-  Em sua planilha "Extra" Mostra a recomendação dos analistas nos últimos 3 meses, e como elas vem mudando (de Strong Buy a Strong Sell), Como também o preço e dividendos nos últimos 6 anos, os Top 5 Key Executives e seus salários, Um gráfico Preço e media móvel de    100 dias nos últimos seis anos e o Volume abaixo desse preço.
+  Em sua planilha "Extra" Mostra a recomendação dos analistas nos últimos 3 meses, e como elas vem mudando (de Strong Buy a Strong Sell), o preço e dividendos nos últimos 6 anos, os Top 5 Key Executives e seus salários, Um gráfico Preço e media móvel de 100 dias nos 
+  últimos seis anos e o Volume abaixo desse preço.
   (Ainda em desenvolvimento)
 
 * Techincals e Techinacals2
 
   Techincals Fornece indicadores Técnicos sobre uma determinada ação junta a um gráfico.
-  Techincals2 Fornece indicadores Técnicos de um portifólio, tais como Taxa de retorno, desvio padrão anualizado, correlação entre as ações, covariância Junto a um gráfico Heatmap mostrando a corrlação visualmente (Todas as açõesdevem estar no mesmo período)
+  Techincals2 Fornece indicadores Técnicos de um respectivo portifólio, tais como Taxa de retorno, Desvio padrão anualizado, Correlação entre as ações, Covariância em um gráfico Heatmap mostrando a correlação visualmente (Todas as ações devem estar no mesmo período)
 
 
   
